@@ -73,3 +73,7 @@ The development checkout writes to `dist/`; use `dist` in the check commands. Re
 `topic_config.py` sets the learning order, titles, primary references and Companion attribution. `learning_content.py` contains the editorial questions, explanations, hints and source anchors. `learning_builder.py` validates and assembles them. `source-data/` contains eighty original language records. Do not replace missing source text with generated material.
 
 Arabic uses Amiri; Urdu prefers locally installed Jameel Noori Nastaleeq with Noto Nastaliq Urdu as the downloadable fallback. Fonts load from Google Fonts. Source links open external websites.
+
+## Mobile reading update
+
+Dedicated layouts for phones and tablets, including 320–430px screens: wrapping section buttons, stacked search and selectors, single-column study menus, larger text, 44px or larger action controls, wrapped pagination, safe-area spacing, and scrollable dialogs. The phone dock remains clear of the final content and notification messages. Arabic and Urdu keep normal word boundaries. Existing topics, source text, IDs and browser progress keys are preserved. Automated behavior/content checks pass; browser viewport and device visual testing was unavailable in this environment.

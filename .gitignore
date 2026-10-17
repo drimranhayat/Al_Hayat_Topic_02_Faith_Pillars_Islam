@@ -1,8 +1,2 @@
 __pycache__/
 *.pyc
-site.zip
-research/publisher-pages/
-research/excluded/
-research/sample-page.html
-research/category-*.json
-research/reference-check.log
