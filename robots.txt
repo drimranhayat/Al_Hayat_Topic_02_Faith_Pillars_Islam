@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://al-hayat-faith-pillars-islam.aquaearth3.chatgpt.site/sitemap.xml

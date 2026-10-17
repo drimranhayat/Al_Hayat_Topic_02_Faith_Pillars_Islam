@@ -43,7 +43,7 @@ After GitHub provides the final URL, configure the search metadata:
 python3 configure_seo.py --base-url https://YOUR-USERNAME.github.io/YOUR-REPOSITORY/ --directory .
 ```
 
-Upload the updated HTML, robots file and sitemap. The portable ZIP has no canonical URL pointing to a private preview. Search ranking is not guaranteed.
+Upload the updated HTML, robots file and sitemap. The release includes canonical URLs for the public Al-Hayat site. Search ranking is not guaranteed.
 
 ## Sources and limits
 
@@ -97,3 +97,12 @@ python3 scripts/check_learning_sources.py .
 ```
 
 Use `dist` in place of `.` for the development checkout. Read `CONTENT_REVIEW.md` and `SOURCE_REVIEW.md` for the review scope and source notes. Coverage concerns the selected texts and their main explanatory distinctions, not every incidental detail, full chain, wording variant, disputed ruling or scholarly discussion. No independent specialist sign-off is claimed. Browser and real-device visual testing remain unverified.
+
+
+## Final reading layout
+The homepage has five trilingual section cards. The library shows eight compact cards per page; each opens one focused hadith lesson. All 45 editorial Arabic card titles have vowel marks, and Urdu uses black text with light reading surfaces in dark mode. Source text, translations, 105 Q&A, 138 MCQs, question IDs and browser progress keys are preserved.
+
+Public site: https://al-hayat-faith-pillars-islam.aquaearth3.chatgpt.site/
+SEO includes unique page descriptions, canonicals, social metadata, structured data, robots.txt and a 44-page sitemap. Search indexing and rankings are not guaranteed. Submit sitemap.xml from the deployed host through your own Search Console account.
+
+Upload the ZIP contents directly to your GitHub repository root. Enable Pages from main / root. No build step, database or API key is required. `python3 build.py` regenerates this release; reconfigure canonical URLs if deploying to another address.
