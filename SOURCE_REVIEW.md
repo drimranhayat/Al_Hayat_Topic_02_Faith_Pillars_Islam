@@ -27,7 +27,7 @@ Publisher page metadata was retrieved for all forty selected records and retaine
 
 ## Teaching standard
 
-Forty-eight independently phrased explanatory answers and forty-seven MCQs. Each has an exact checked source anchor. Exact matching establishes traceability; it does not independently prove an interpretation. Counts vary with the content: one to three answers and one or two MCQs. Every retained item develops a specific point. Generic narrator, reference and sanad questions are not repeated throughout the bank.
+105 explanatory answers and 138 MCQs in the final coverage edition. Each has an exact checked source anchor. Exact matching establishes traceability; it does not independently prove an interpretation. Counts vary with the content: one to twelve answers and one to fourteen MCQs. Every retained item develops a specific point. Generic narrator, reference and sanad questions are not repeated throughout the bank.
 
 All original benefits and glossary entries remain available separately in the reading panels. Incorrect quiz choices are explicitly editorial exercise distractors, not alleged hadith. Full chains are linked through primary collections and are not reconstructed.
 
@@ -36,3 +36,5 @@ All original benefits and glossary entries remain available separately in the re
 Checks cover source-field preservation, forty distinct records, five sections of eight, source anchors for all ninety-five learning items, key/answer consistency, unique stems, balanced answer positions, and all 188 answer-choice paths. Interaction checks include search, filters, direct selection, bookmarks, progress, notes, routes, quiz reset and saved reload. HTML structure, collapsed panels, local links and reading color contrast are checked.
 
 Browser visual QA was unavailable in this environment; structural and simulated interaction checks were completed. No independent specialist assessment or exhaustive scholarly coverage is claimed. Use the linked full sources and appropriate scholarship for disputed applications or individual rulings.
+
+The final per-report coverage audit is supplied in `COVERAGE_AUDIT.md`, `coverage-audit.csv` and `coverage-audit.json`. It records 145 mapped teaching points. See `CONTENT_REVIEW.md` for the detailed editorial and technical review.

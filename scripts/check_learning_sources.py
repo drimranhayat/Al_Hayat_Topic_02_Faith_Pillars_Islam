@@ -10,7 +10,7 @@ assert [d['id'] for d in rows]==ids
 positions=collections.Counter();keys=[];stems=[];qstems=[];qa_count=0;mc_count=0
 for i,d in enumerate(rows):
  s=bank[d['id']];assert s['revision']==REVISION and s['narrator']==NARRATORS[i]
- assert 1<=len(s['qa'])<=3 and 1<=len(s['mcq'])<=2
+ assert 1<=len(s['qa'])<=12 and 1<=len(s['mcq'])<=14
  assert len(s['qa'])==len(BANK[i]['qa']) and len(s['mcq'])==len(BANK[i]['mcq'])
  for item,q in zip(BANK[i]['qa'],s['qa']):
   assert q['evidence']==evidence(d,item);assert q['q']==item['q'] and q['a']==item['a'];qstems.append(norm(q['q']));qa_count+=1

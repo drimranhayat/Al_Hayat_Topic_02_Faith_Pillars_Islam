@@ -154,4 +154,5 @@ def load_bank():
    q,a,w1,w2,w3,why,hint,src=row;field,anchor=src.split(':',1);current['mcq'].append({'q':q,'a':a,'wrong':[w1,w2,w3],'why':why,'hint':hint,'basis':field,'anchor':anchor})
  assert len(out)==40
  return out
-BANK=load_bank()
+from expanded_learning import expand
+BANK=expand(load_bank())

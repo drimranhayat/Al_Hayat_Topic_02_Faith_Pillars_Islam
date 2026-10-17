@@ -1,7 +1,8 @@
 import re,unicodedata,random
 from topic_config import NARRATORS
 from learning_content import BANK
-REVISION="topic002-focused-v1"
+from coverage_map import COVERAGE
+REVISION="topic002-coverage-2026-10-17"
 def norm(s):
  return ' '.join(''.join(c for c in unicodedata.normalize('NFKD',s.replace('’',"'").replace('‘',"'").replace('–','-')) if not unicodedata.combining(c)).casefold().split())
 def evidence(d,item):
@@ -26,5 +27,5 @@ def build_learning(rows):
    proof=evidence(d,item);options=[item['a']]+item['wrong'];assert len(set(map(norm,options)))==4
    correct=positions[cursor];cursor+=1;options.insert(correct,options.pop(0))
    mc.append({'id':f'{d["id"]}-mc-{j+1}','q':item['q'],'options':options,'correct':correct,'feedback':[item['why'] if x==item['a'] else 'The supported answer is: '+item['a'].rstrip('.')+'. '+item['why'] for x in options],'hint':item['hint'],'category':'Content practice','source':d['source'],'evidence':proof})
-  out[d['id']]={'revision':REVISION,'narrator':NARRATORS[i],'qa':qa,'mcq':mc,'source':d['source'],'coverage':{'focusedAnswers':len(qa),'thematicQuestions':len(mc),'completeSanadProvided':False}}
+  out[d['id']]={'revision':REVISION,'narrator':NARRATORS[i],'qa':qa,'mcq':mc,'source':d['source'],'coverage':{'focusedAnswers':len(qa),'thematicQuestions':len(mc),'completeSanadProvided':False,'topics':COVERAGE[i]}}
  return out

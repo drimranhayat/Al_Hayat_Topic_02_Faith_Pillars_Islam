@@ -16,7 +16,7 @@ Each section has eight selections. This is an editorial learning order inspired 
 
 ## Focused learning
 
-There are **48 explanatory Q&A and 47 MCQs**, with the count determined by each report's content. Short reports generally have one question; longer reports receive additional questions only for a distinct important point. Q&A explains the meaning in connected prose. Quizzes check selected points through interpretation and application. There are no repeated narrator, sanad, or grading templates used to inflate the bank.
+There are **105 explanatory Q&A and 138 MCQs**, with the count determined by each report's content. Short reports generally have one question; longer reports receive additional questions only for a distinct important point. Q&A explains the meaning in connected prose. Quizzes check selected points through interpretation and application. There are no repeated narrator, sanad, or grading templates used to inflate the bank.
 
 Every editorial answer and MCQ has an exact anchor in the supplied text, explanation, or benefit, and an expandable supporting passage. Editorial prose and exercise distractors are clearly separate from transmitted hadith. Questions do not claim to exhaust every scholarly issue.
 
@@ -77,3 +77,23 @@ Arabic uses Amiri; Urdu prefers locally installed Jameel Noori Nastaleeq with No
 ## Mobile reading update
 
 Dedicated layouts for phones and tablets, including 320–430px screens: wrapping section buttons, stacked search and selectors, single-column study menus, larger text, 44px or larger action controls, wrapped pagination, safe-area spacing, and scrollable dialogs. The phone dock remains clear of the final content and notification messages. Arabic and Urdu keep normal word boundaries. Existing topics, source text, IDs and browser progress keys are preserved. Automated behavior/content checks pass; browser viewport and device visual testing was unavailable in this environment.
+
+## Final coverage edition
+
+The final bank has **105 explanatory Q&A and 138 MCQs**, with **145 teaching points** mapped across all forty selections. Counts vary from 1–12 Q&A and 1–14 MCQs. The Hadith of Jibril is the largest set because it contains multiple distinct definitions, beliefs, signs and teaching features. Brief reports remain concise; the earlier planning ranges are not quotas.
+
+Inside each Q&A panel, open **What this study set covers**. The footer links to the complete **Learning coverage and question counts** page. `COVERAGE_AUDIT.md`, `coverage-audit.csv` and `coverage-audit.json` map each point to its numbered questions. These are editorial coverage judgments, not independent hadith authentication.
+
+`learning_content.py` retains the original bank and loads individually authored additions from `expanded_learning.py`. `coverage_map.py` supplies the mappings and `coverage_report.py` generates their web and document forms. Existing question IDs and all source content are preserved. Pre-revision content and learning data are retained in `audit/` for comparison.
+
+The practice bank uses `alhayat-topic002-v2-coverage-quiz` so the enlarged and rebalanced quizzes do not inherit mismatched attempts. Notes, settings, bookmarks and reading progress retain their original keys. The responsive mobile stylesheet and expandable learning panels remain included.
+
+Extra checks for the portable repository:
+
+```sh
+python3 scripts/check_coverage.py .
+python3 scripts/check_content.py .
+python3 scripts/check_learning_sources.py .
+```
+
+Use `dist` in place of `.` for the development checkout. Read `CONTENT_REVIEW.md` and `SOURCE_REVIEW.md` for the review scope and source notes. Coverage concerns the selected texts and their main explanatory distinctions, not every incidental detail, full chain, wording variant, disputed ruling or scholarly discussion. No independent specialist sign-off is claimed. Browser and real-device visual testing remain unverified.

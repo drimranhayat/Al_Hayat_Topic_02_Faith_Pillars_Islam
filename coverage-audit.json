@@ -1,0 +1,1815 @@
+{
+  "revision": "topic002-coverage-2026-10-17",
+  "qaCount": 105,
+  "mcqCount": 138,
+  "teachingPoints": 145,
+  "scope": "Coverage of the forty selected published texts and their main explanatory distinctions. All source benefits and available vocabulary remain readable in their panels. Incidental descriptive details do not each require an isolated question. This is an editorial coverage audit, not independent scholarly certification or exhaustive coverage of every chain, variant or legal debate.",
+  "records": [
+    {
+      "number": 1,
+      "id": "4563",
+      "title": "Islam, faith and ihsan",
+      "qaCount": 12,
+      "mcqCount": 14,
+      "primary": "https://sunnah.com/muslim:8a",
+      "source": "https://hadeethenc.com/en/browse/hadith/4563",
+      "page": "hadith/01-islam-faith-and-ihsan.html",
+      "points": [
+        {
+          "point": "Islam, iman and ihsan as connected levels, with the paired-term qualification",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Five pillars and the explicit condition of ability for Hajj",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Six foundations of belief, including decree's pleasant and unpleasant aspects",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Belief in Allah: existence, attributes, divine actions and exclusive worship",
+          "qa": [
+            5
+          ],
+          "mcq": [
+            5
+          ]
+        },
+        {
+          "point": "Angels as obedient created servants and Books as divine revelation",
+          "qa": [
+            6
+          ],
+          "mcq": [
+            6,
+            7
+          ]
+        },
+        {
+          "point": "Messengers conveying Allah's religion and Muhammad as the last messenger",
+          "qa": [
+            7
+          ],
+          "mcq": [
+            8
+          ]
+        },
+        {
+          "point": "The Last Day: life after death, resurrection, reckoning and recompense",
+          "qa": [
+            8
+          ],
+          "mcq": [
+            9
+          ]
+        },
+        {
+          "point": "Decree in Allah's prior knowledge, wisdom, writing, will and creation",
+          "qa": [
+            9
+          ],
+          "mcq": [
+            10
+          ]
+        },
+        {
+          "point": "Ihsan and awareness that Allah sees the worshipper",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The time of the Hour distinguished from its signs",
+          "qa": [
+            10
+          ],
+          "mcq": [
+            11
+          ]
+        },
+        {
+          "point": "The two stated signs and the publisher's explanations without a timetable",
+          "qa": [
+            11
+          ],
+          "mcq": [
+            12
+          ]
+        },
+        {
+          "point": "Jibril's identity, the companions' surprise and learning through questions",
+          "qa": [
+            12
+          ],
+          "mcq": [
+            13,
+            14
+          ]
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "id": "65000",
+      "title": "The five pillars of Islam",
+      "qaCount": 5,
+      "mcqCount": 6,
+      "primary": "https://sunnah.com/muslim:16c",
+      "source": "https://hadeethenc.com/en/browse/hadith/65000",
+      "page": "hadith/02-the-five-pillars-of-islam.html",
+      "points": [
+        {
+          "point": "The building image, five foundations and inseparability of the testimonies",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        },
+        {
+          "point": "Establishing the five daily prayers with their prescribed requirements",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Zakat on qualifying property for entitled recipients",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Hajj as a journey for the rituals of worship",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            6
+          ]
+        },
+        {
+          "point": "Ramadan fasting: dawn, sunset, invalidators and intention",
+          "qa": [
+            5
+          ],
+          "mcq": [
+            5
+          ]
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "id": "3700",
+      "title": "A commitment to the obligatory duties",
+      "qaCount": 3,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:11a",
+      "source": "https://hadeethenc.com/en/browse/hadith/3700",
+      "page": "hadith/03-a-commitment-to-the-obligatory-duties.html",
+      "points": [
+        {
+          "point": "The five prayers, Ramadan and zakat explicitly discussed in the exchange",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Obligatory duties distinguished from voluntary additions",
+          "qa": [
+            1,
+            2
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Success conditional on a truthful commitment without omission",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Hajj's absence explained by context rather than denial of its pillar",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Friday prayer as replacing Zhuhr for those obligated to attend",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "id": "65003",
+      "title": "Obligations and the path to Paradise",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:15a",
+      "source": "https://hadeethenc.com/en/browse/hadith/65003",
+      "page": "hadith/04-obligations-and-the-path-to-paradise.html",
+      "points": [
+        {
+          "point": "Obligatory prayer and Ramadan fasting within the promised commitment",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Regarding lawful and unlawful correctly and acting accordingly",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "id": "65044",
+      "title": "Dimam asks about the foundations",
+      "qaCount": 5,
+      "mcqCount": 5,
+      "primary": "https://sunnah.com/bukhari:63",
+      "source": "https://hadeethenc.com/en/browse/hadith/65044",
+      "page": "hadith/05-dimam-asks-about-the-foundations.html",
+      "points": [
+        {
+          "point": "Verifying that the mission and obligations came from Allah",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The mission to all mankind",
+          "qa": [
+            5
+          ],
+          "mcq": [
+            5
+          ]
+        },
+        {
+          "point": "Gentle answers allowing serious direct questions",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Prayer, Ramadan and zakat as duties confirmed in the exchange",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Zakat from the rich to the poor",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Dimam as a representative intending to convey the message to his people",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "id": "6468",
+      "title": "The many branches of faith",
+      "qaCount": 4,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:35b",
+      "source": "https://hadeethenc.com/en/browse/hadith/6468",
+      "page": "hadith/06-the-many-branches-of-faith.html",
+      "points": [
+        {
+          "point": "Faith comprising words, deeds and beliefs at different levels",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The highest declaration with understanding and action",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Removing harm from a public path as an act of faith",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Modesty encouraging good and restraining evil",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "The alternative branch counts and the benefit's nonexclusive explanation",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "id": "65018",
+      "title": "Belief followed by steadfastness",
+      "qaCount": 2,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:38",
+      "source": "https://hadeethenc.com/en/browse/hadith/65018",
+      "page": "hadith/07-belief-followed-by-steadfastness.html",
+      "points": [
+        {
+          "point": "Belief in Allah's Lordship, creation and exclusive worship",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Steadfastness through duties, avoidance of prohibitions and persistence",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "id": "65007",
+      "title": "The right of Allah upon His servants",
+      "qaCount": 3,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/bukhari:2856",
+      "source": "https://hadeethenc.com/en/browse/hadith/65007",
+      "page": "hadith/08-the-right-of-allah-upon-his-servants.html",
+      "points": [
+        {
+          "point": "Allah's right: worship without association",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The servants' promised right as freely ordained grace",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Hope without relying on the promise to neglect obedience",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Muadh's eventual transmission and the concern about concealing knowledge",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "id": "65004",
+      "title": "Purity, prayer and a life of faith",
+      "qaCount": 6,
+      "mcqCount": 7,
+      "primary": "https://sunnah.com/muslim:223",
+      "source": "https://hadeethenc.com/en/browse/hadith/65004",
+      "page": "hadith/09-purity-prayer-and-a-life-of-faith.html",
+      "points": [
+        {
+          "point": "Outward purification and inward purity through faith and righteous deeds",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Praise and glorification, perfection and freedom from deficiency",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "The worth of remembrance described through the Scale and the heavens and earth",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Prayer as light in life and final accountability",
+          "qa": [
+            5
+          ],
+          "mcq": [
+            5
+          ]
+        },
+        {
+          "point": "Charity as proof of sincere faith",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Patience as difficult self-restraint in obedience, avoidance and affliction",
+          "qa": [
+            1,
+            6
+          ],
+          "mcq": [
+            6
+          ]
+        },
+        {
+          "point": "The Quran as an argument for or against its reader through response to it",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Daily choices represented by selling one's soul toward salvation or ruin",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            7
+          ]
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "id": "6337",
+      "title": "Drawing near through obligatory deeds",
+      "qaCount": 5,
+      "mcqCount": 6,
+      "primary": "https://sunnah.com/bukhari:6502",
+      "source": "https://hadeethenc.com/en/browse/hadith/6337",
+      "page": "hadith/10-drawing-near-through-obligatory-deeds.html",
+      "points": [
+        {
+          "point": "The pious believer as wali and the warning about harming him",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3,
+            4
+          ]
+        },
+        {
+          "point": "Obligations and avoidance of prohibitions before further devotion",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Continuing voluntary worship as a means of drawing near",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Guidance of hearing, sight, hand and foot, rather than divinity of the servant",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The assurances concerning asking and seeking refuge",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            5
+          ]
+        },
+        {
+          "point": "The closing death passage explained through mercy and dislike of pain",
+          "qa": [
+            5
+          ],
+          "mcq": [
+            6
+          ]
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "id": "3591",
+      "title": "Regular worship and the avoidance of major sins",
+      "qaCount": 3,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:233a",
+      "source": "https://hadeethenc.com/en/browse/hadith/3591",
+      "page": "hadith/11-regular-worship-and-the-avoidance-of-major-sins.html",
+      "points": [
+        {
+          "point": "Daily, weekly and yearly worship and recurring opportunities for expiation",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Expiation of minor sins with the condition concerning major sins",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Repentance for major sins and the source's indicators of major wrongdoing",
+          "qa": [
+            1,
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "id": "4196",
+      "title": "Fasting Ramadan with faith and sincerity",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/bukhari:38",
+      "source": "https://hadeethenc.com/en/browse/hadith/4196",
+      "page": "hadith/12-fasting-ramadan-with-faith-and-sincerity.html",
+      "points": [
+        {
+          "point": "Faith in the obligation and sincere seeking of Allah's reward",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The stated promise of forgiveness without showing off or seeking reputation",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 13,
+      "id": "2758",
+      "title": "Hajj with disciplined conduct",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/bukhari:1521",
+      "source": "https://hadeethenc.com/en/browse/hadith/2758",
+      "page": "hadith/13-hajj-with-disciplined-conduct.html",
+      "points": [
+        {
+          "point": "Hajj joined to avoiding rafath, sinful conduct and ihram prohibitions",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        },
+        {
+          "point": "Rafath as sexual relations or obscene speech",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The comparison with birth: cleansing of sins under the stated conditions",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Being born free of sins and not responsible for others' sins",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 14,
+      "id": "3284",
+      "title": "Ablution and the cleansing of sins",
+      "qaCount": 1,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:244",
+      "source": "https://hadeethenc.com/en/browse/hadith/3284",
+      "page": "hadith/14-ablution-and-the-cleansing-of-sins.html",
+      "points": [
+        {
+          "point": "Washing the face, hands and feet and the sins associated with those limbs",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Minor sins as the qualification stated by the explanation",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Physical washing joined to spiritual cleansing",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 15,
+      "id": "3390",
+      "title": "Teaching belief, prayer and zakat",
+      "qaCount": 4,
+      "mcqCount": 5,
+      "primary": "https://sunnah.com/bukhari:1496",
+      "source": "https://hadeethenc.com/en/browse/hadith/3390",
+      "page": "hadith/15-teaching-belief-prayer-and-zakat.html",
+      "points": [
+        {
+          "point": "Recognizing the audience's earlier knowledge and misconceptions",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Teaching the testimonies, then prayer, then zakat",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Zakat's destination among the poor",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Not selecting people's best assets and avoiding oppression",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2,
+            5
+          ]
+        },
+        {
+          "point": "The oppressed person's supplication as a warning to the collector",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 16,
+      "id": "3599",
+      "title": "The giving hand and self-restraint",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/bukhari:1429",
+      "source": "https://hadeethenc.com/en/browse/hadith/3599",
+      "page": "hadith/16-the-giving-hand-and-self-restraint.html",
+      "points": [
+        {
+          "point": "The upper hand as giving and the lower hand as asking",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Generosity, restraint and receiving without begging as distinct cases",
+          "qa": [
+            1,
+            2
+          ],
+          "mcq": [
+            1,
+            3
+          ]
+        },
+        {
+          "point": "The fourfold ranking in the supplied benefit",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 17,
+      "id": "65116",
+      "title": "Contentment and the taste of faith",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:34",
+      "source": "https://hadeethenc.com/en/browse/hadith/65116",
+      "page": "hadith/17-contentment-and-the-taste-of-faith.html",
+      "points": [
+        {
+          "point": "Contentment with Allah's Lordship, religion's duties and the Messenger's guidance",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        },
+        {
+          "point": "Sustenance and circumstances within the explanation of contentment",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The taste of faith as inward reassurance and sweetness",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 18,
+      "id": "5953",
+      "title": "Love of the Messenger and complete faith",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/bukhari:15",
+      "source": "https://hadeethenc.com/en/browse/hadith/5953",
+      "page": "hadith/18-love-of-the-messenger-and-complete-faith.html",
+      "points": [
+        {
+          "point": "Love of the Messenger above other personal attachments",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Complete faith expressed through obedience, belief and avoidance of prohibitions",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 19,
+      "id": "5493",
+      "title": "Strength, effort and seeking Allah’s help",
+      "qaCount": 3,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:2664",
+      "source": "https://hadeethenc.com/en/browse/hadith/5493",
+      "page": "hadith/19-strength-effort-and-seeking-allah-s-help.html",
+      "points": [
+        {
+          "point": "Strength in faith, resolve and useful means, with good retained in both believers",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2,
+            4
+          ]
+        },
+        {
+          "point": "Beneficial effort and use of means together with seeking Allah's help",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "After a calamity: acknowledging decree rather than resentful objection",
+          "qa": [
+            1,
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 20,
+      "id": "65011",
+      "title": "Distressing thoughts and sincere faith",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:132a",
+      "source": "https://hadeethenc.com/en/browse/hadith/65011",
+      "page": "hadith/20-distressing-thoughts-and-sincere-faith.html",
+      "points": [
+        {
+          "point": "Unwanted thoughts distinguished from accepting a chosen belief",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Rejection of the whispers rather than their content as the sign of faith",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Seeking refuge and clarification rather than accepting or pursuing the thoughts",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 21,
+      "id": "65013",
+      "title": "Seeking refuge from persistent whispers",
+      "qaCount": 1,
+      "mcqCount": 1,
+      "primary": "https://sunnah.com/bukhari:3276",
+      "source": "https://hadeethenc.com/en/browse/hadith/65013",
+      "page": "hadith/21-seeking-refuge-from-persistent-whispers.html",
+      "points": [
+        {
+          "point": "The persistent whispered chain about creation",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Belief, refuge and desisting, without rejecting sincere learning generally",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "number": 22,
+      "id": "4555",
+      "title": "Hearts and deeds, beyond appearances",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:2564c",
+      "source": "https://hadeethenc.com/en/browse/hadith/4555",
+      "page": "hadith/22-hearts-and-deeds-beyond-appearances.html",
+      "points": [
+        {
+          "point": "Hearts and deeds rather than wealth, appearance or bodily condition",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            3
+          ]
+        },
+        {
+          "point": "Sincerity and following the Prophetic example as complementary reforms",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 23,
+      "id": "65016",
+      "title": "Entering Islam with past good deeds",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/bukhari:1436",
+      "source": "https://hadeethenc.com/en/browse/hadith/65016",
+      "page": "hadith/23-entering-islam-with-past-good-deeds.html",
+      "points": [
+        {
+          "point": "Hakim's charity, freeing slaves and kinship before Islam",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The reassurance tied to his acceptance of Islam",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "number": 24,
+      "id": "3438",
+      "title": "Love for those who supported the faith",
+      "qaCount": 2,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:75",
+      "source": "https://hadeethenc.com/en/browse/hadith/3438",
+      "page": "hadith/24-love-for-those-who-supported-the-faith.html",
+      "points": [
+        {
+          "point": "The Ansar's support, shelter and sacrifice as the reason for their merit",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Love and hatred as signs in the report, and the stated divine promise",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 25,
+      "id": "4717",
+      "title": "Wishing good for one’s brother",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/bukhari:13",
+      "source": "https://hadeethenc.com/en/browse/hadith/4717",
+      "page": "hadith/25-wishing-good-for-one-s-brother.html",
+      "points": [
+        {
+          "point": "Wishing religious and worldly good and offering practical support",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Goodwill opposed to envy, cheating, backbiting and aggression",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        },
+        {
+          "point": "Disliking another's harm as one's own",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The explanation's qualification of complete faith",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 26,
+      "id": "10101",
+      "title": "Safety from the tongue and hand",
+      "qaCount": 1,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/bukhari:10",
+      "source": "https://hadeethenc.com/en/browse/hadith/10101",
+      "page": "hadith/26-safety-from-the-tongue-and-hand.html",
+      "points": [
+        {
+          "point": "Safety from verbal harm and physical or property injury",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            3
+          ]
+        },
+        {
+          "point": "Emigration explained through abandoning what Allah forbids",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 27,
+      "id": "5437",
+      "title": "Good speech, neighbors and guests",
+      "qaCount": 3,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:47a",
+      "source": "https://hadeethenc.com/en/browse/hadith/5437",
+      "page": "hadith/27-good-speech-neighbors-and-guests.html",
+      "points": [
+        {
+          "point": "Belief in Allah and final accountability motivating social conduct",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Beneficial speech, including reconciliation, or silence when speech is not good",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Benevolence and freedom from harm for neighbors",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Kind words and food as practical hospitality",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 28,
+      "id": "3361",
+      "title": "Spreading peace and building love",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:54",
+      "source": "https://hadeethenc.com/en/browse/hadith/3361",
+      "page": "hadith/28-spreading-peace-and-building-love.html",
+      "points": [
+        {
+          "point": "Faith, mutual love and the sound condition of the community",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Spreading peace as a means against rancor and division",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The sufficient greeting and fuller wording cited from another report",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 29,
+      "id": "4969",
+      "title": "Believers as one body",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:2586a",
+      "source": "https://hadeethenc.com/en/browse/hadith/4969",
+      "page": "hadith/29-believers-as-one-body.html",
+      "points": [
+        {
+          "point": "Love, compassion and sympathy expressed through help and support",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "One organ's suffering and the shared response of the body",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 30,
+      "id": "3055",
+      "title": "Modesty that leads to good",
+      "qaCount": 1,
+      "mcqCount": 1,
+      "primary": "https://sunnah.com/bukhari:6117",
+      "source": "https://hadeethenc.com/en/browse/hadith/3055",
+      "page": "hadith/30-modesty-that-leads-to-good.html",
+      "points": [
+        {
+          "point": "Modesty encouraging honorable conduct and restraining degrading acts",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "number": 31,
+      "id": "5808",
+      "title": "Feeding people and greeting widely",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/bukhari:12",
+      "source": "https://hadeethenc.com/en/browse/hadith/5808",
+      "page": "hadith/31-feeding-people-and-greeting-widely.html",
+      "points": [
+        {
+          "point": "Feeding people through charity, gifts and hospitality",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Greater emphasis during famine and rising prices",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Greeting those known and unknown rather than a private useful circle",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Benevolence in deeds and words together",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1,
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 32,
+      "id": "3165",
+      "title": "Worship and the rights of other people",
+      "qaCount": 3,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:2581",
+      "source": "https://hadeethenc.com/en/browse/hadith/3165",
+      "page": "hadith/32-worship-and-the-rights-of-other-people.html",
+      "points": [
+        {
+          "point": "Material bankruptcy contrasted with bankruptcy in final accountability",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Worship does not erase the rights of those one harms",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Verbal abuse, unfounded accusations, property injury, bloodshed and beating",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Victims first receive from the wrongdoer's good deeds",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "When good deeds are insufficient, victims' sins are cast upon the wrongdoer",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 33,
+      "id": "65124",
+      "title": "Traits of hypocrisy to abandon",
+      "qaCount": 4,
+      "mcqCount": 5,
+      "primary": "https://sunnah.com/muslim:58",
+      "source": "https://hadeethenc.com/en/browse/hadith/65124",
+      "page": "hadith/33-traits-of-hypocrisy-to-abandon.html",
+      "points": [
+        {
+          "point": "The four traits in this narration: lying, betrayal, broken promises and immoral dispute",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            5
+          ]
+        },
+        {
+          "point": "Practical traits distinguished from concealing disbelief",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Intention and genuine impediment distinguished in promise-keeping",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Deception and falsehood in disputes rather than disagreement itself",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "One trait distinguished from all four, and abandoning it as reform",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 34,
+      "id": "65019",
+      "title": "The instability of hypocrisy",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:2784a",
+      "source": "https://hadeethenc.com/en/browse/hadith/65019",
+      "page": "hadith/34-the-instability-of-hypocrisy.html",
+      "points": [
+        {
+          "point": "The wandering ewe as an image of divided commitment and instability",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Truthful and settled inward and outward faith as the positive response",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 35,
+      "id": "3138",
+      "title": "Acting before trials darken judgment",
+      "qaCount": 3,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:118",
+      "source": "https://hadeethenc.com/en/browse/hadith/3138",
+      "page": "hadith/35-acting-before-trials-darken-judgment.html",
+      "points": [
+        {
+          "point": "Hastening to good before trials obstruct action",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Darkness as confusion between truth and falsehood and rapid changes",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Trading religion for temporary worldly advantage",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Knowledge for doubts, faith and patience for desires",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            3
+          ]
+        },
+        {
+          "point": "Continuing effort rather than complacency about earlier good deeds",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            4
+          ]
+        }
+      ]
+    },
+    {
+      "number": 36,
+      "id": "65002",
+      "title": "Islam, repentance and accountable conduct",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/bukhari:6921",
+      "source": "https://hadeethenc.com/en/browse/hadith/65002",
+      "page": "hadith/36-islam-repentance-and-accountable-conduct.html",
+      "points": [
+        {
+          "point": "Sincere and committed entry into Islam and forgiveness of earlier sins",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "The publisher's opposite case specified as hypocrisy or renouncing Islam",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        }
+      ]
+    },
+    {
+      "number": 37,
+      "id": "8883",
+      "title": "The danger of unfounded accusations",
+      "qaCount": 2,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/bukhari:6045",
+      "source": "https://hadeethenc.com/en/browse/hadith/8883",
+      "page": "hadith/37-the-danger-of-unfounded-accusations.html",
+      "points": [
+        {
+          "point": "The grave danger of unjustified accusations and the duty to verify",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "A truthful description still requires a proper purpose and manner",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Gentle correction where effective, rather than provoking further wrongdoing",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 38,
+      "id": "65001",
+      "title": "Responding to wrongdoing within one’s ability",
+      "qaCount": 4,
+      "mcqCount": 4,
+      "primary": "https://sunnah.com/muslim:49a",
+      "source": "https://hadeethenc.com/en/browse/hadith/65001",
+      "page": "hadith/38-responding-to-wrongdoing-within-one-s-ability.html",
+      "points": [
+        {
+          "point": "Hand, speech and heart as graded responses within ability",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2,
+            3
+          ]
+        },
+        {
+          "point": "Knowing the act is wrong and avoiding a greater wrong",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "Speech explaining harm and guiding toward good",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            4
+          ]
+        },
+        {
+          "point": "Heartfelt disapproval and resolve if capacity becomes available",
+          "qa": [
+            4
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    },
+    {
+      "number": 39,
+      "id": "65015",
+      "title": "Allah does not neglect a believer’s good",
+      "qaCount": 3,
+      "mcqCount": 3,
+      "primary": "https://sunnah.com/muslim:2808a",
+      "source": "https://hadeethenc.com/en/browse/hadith/65015",
+      "page": "hadith/39-allah-does-not-neglect-a-believer-s-good.html",
+      "points": [
+        {
+          "point": "A believer's good is not diminished and reward is not confined to immediate benefit",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The whole reward may be reserved for the Hereafter",
+          "qa": [
+            2
+          ],
+          "mcq": [
+            2
+          ]
+        },
+        {
+          "point": "Dying without faith distinguished from Hakim's acceptance of Islam",
+          "qa": [
+            3
+          ],
+          "mcq": [
+            3
+          ]
+        }
+      ]
+    },
+    {
+      "number": 40,
+      "id": "3298",
+      "title": "Gratitude and patience in the believer’s life",
+      "qaCount": 1,
+      "mcqCount": 2,
+      "primary": "https://sunnah.com/muslim:2999",
+      "source": "https://hadeethenc.com/en/browse/hadith/3298",
+      "page": "hadith/40-gratitude-and-patience-in-the-believer-s-life.html",
+      "points": [
+        {
+          "point": "Gratitude in prosperity and patience in adversity",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            1
+          ]
+        },
+        {
+          "point": "The reward lies in the believer's faithful response rather than denial of pain",
+          "qa": [
+            1
+          ],
+          "mcq": [
+            2
+          ]
+        }
+      ]
+    }
+  ]
+}
